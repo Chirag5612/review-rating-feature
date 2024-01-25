@@ -20,7 +20,7 @@ Allows users to add reviews & rating
 
 - Deploy the build with firebase hosting / vercel /Ec2
 
-# [Environment Variables](#environment-variables)
+# Environment Variables
 
 The environment variables should be set in a '.env' file just as .env.sample file.
 
