@@ -1,12 +1,9 @@
 ## Feature
 
- - **Feed functionality:** 
-Allows users to like/unlike a feed & add commnets on a feed
+ - **Review rating functionality:** 
+Allows users to add reviews & rating
 
-- user can view code functionality for
-- how to create a feed  
-- like/unlike a feed
-- add commnets on a feed
+- user can add review & rating
 
 # Installation/Setup
 
